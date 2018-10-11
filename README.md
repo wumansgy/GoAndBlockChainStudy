@@ -121,6 +121,8 @@ go语言和区块链的一些学习总结笔记，包括go语言编程，区块�
 
     ### [相关书籍](https://github.com/wumansgy/GoAndBlockChainStudy/tree/master/%E7%9B%B8%E5%85%B3%E4%B9%A6%E7%B1%8D)
 
+    ### [Beego框架学习](https://github.com/wumansgy/GoAndBlockChainStudy/tree/master/Beego%E6%A1%86%E6%9E%B6%E7%9A%84%E5%AD%A6%E4%B9%A0)
+
     
 
     
