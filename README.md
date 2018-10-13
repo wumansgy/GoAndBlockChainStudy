@@ -102,7 +102,16 @@ go语言和区块链的一些学习总结笔记，包括go语言编程，区块�
 
 - 16.GO和C的搞笑混合编程
 
-  链接：<https://pan.baidu.com/s/1c1DZzjE> 
+  链接：<https://pan.baidu.com/s/1c1DZzjE>
+
+  - 17.群友分享尚硅谷go语言详细教学视频
+
+  链接：链接：https://pan.baidu.com/s/1pjvxEngFdsnPdgoFoO7HMQ  提取码：yety 
+
+  - 18群友分享尚硅谷教学视频【详细】
+
+  ​     链接：https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 提取码：I768  
+
   ## golang例题讲解
 
   - [1.卷一](https://github.com/wumansgy/GoAndBlockChainStudy/blob/master/go%E7%BB%8F%E5%85%B8%E9%A2%98%E7%A7%AF%E7%B4%AF/%E5%8D%B71.md)

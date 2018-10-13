@@ -64,5 +64,13 @@
 
   链接：<https://pan.baidu.com/s/1c1DZzjE> 
 
+- 17.群友分享尚硅谷go语言详细教学视频
+
+  链接：链接：https://pan.baidu.com/s/1pjvxEngFdsnPdgoFoO7HMQ  提取码：yety 
+
+- 18群友分享尚硅谷教学视频【详细】
+
+​     链接：https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 提取码：I768  
+
 
 
