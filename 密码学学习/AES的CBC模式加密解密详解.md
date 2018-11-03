@@ -44,23 +44,31 @@ ABCDEFGHIJKLMNOP
 
 ![](AES的CBC模式加密解密详解/1.png)
 
-> <font color="red">SubBytes		-- 	字节代换</font>
->
-> <font color="red">ShiftRows		--	行移位代换</font>
->
-> <font color="red">MixColumns	--	列混淆	</font>
->
-> <font color="red">AddRoundKey	--	轮密钥加</font>
+```
+SubBytes		-- 	字节代换
+
+ShiftRows		--	行移位代换
+
+MixColumns	--	列混淆	
+
+AddRoundKey	--	轮密钥加
+```
+
+
 
 > 下图展示了AES中一轮的解密过程。从图中我们可以看出，SubBytes、ShiftRows、MixColumns分别存在反向运算InvSubBytes、InvShiftRows、InvMixColumns，这是因为AES不像Feistel网络一样能够用同一种结构实现加密和解密。
 
 ![](AES的CBC模式加密解密详解/2.png)
 
-> <font color="red">InvSubBytes		--	逆字节替代</font>
->
-> <font color="red">InvShiftRows		--	逆行移位</font>
->
-> <font color="red">InvMixColumns	--	逆列混淆</font>
+```
+InvSubBytes		--	逆字节替代
+
+InvShiftRows		--	逆行移位
+
+InvMixColumns	--	逆列混淆
+```
+
+
 
 #### 3.Go中对AES的使用
 
