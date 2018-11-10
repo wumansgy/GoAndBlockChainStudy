@@ -1,4 +1,9 @@
 # GoAndBlockChainStudy
+
+[![](https://img.shields.io/badge/Auther-blog-blue.svg)](https://github.com/wumansgy)    
+
+
+
 go and blockchain study note，欢迎各位志同道合的朋友一起完善，让更多的go开发者能够有一份不错的学习资料
 go语言和区块链的一些学习总结笔记，包括go语言编程，区块链学习，分布式系统学习，密码学的学习，linux学习，总结的学习，持续上传完善，如果有志同道合的朋友可以一起完善
 
