@@ -44,6 +44,6 @@ go语言和区块链的一些学习总结笔记，包括go语言编程，区块�
 | 14.go语言超详细学习知识体系                                  |   链接：<https://pan.baidu.com/s/1ARSmrpMLoPe_EqWXqMQYlg>    |
 | 15.Go语言Web开发Beego框架深入浅出                            |   链接：<https://pan.baidu.com/s/1hG1lYDsy5WsLHwsRSNGWTg>    |
 | 16.GO和C的搞笑混合编程                                       |           链接：<https://pan.baidu.com/s/1c1DZzjE>           |
-| 17.群友分享尚硅谷go语言详细教学视频                          | 链接：链接：[https://pan.baidu.com/s/1pjvxEngFdsnPdgoFoO7HMQ ](https://pan.baidu.com/s/1pjvxEngFdsnPdgoFoO7HMQ%C2%A0) 提取码：yety |
-| 18群友分享尚硅谷教学视频【详细】                             | 链接：[https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 提取码：I768](https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw%C2%A0%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9AI768) |
+| 17群友分享尚硅谷教学视频【详细】                             | 链接：[https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 提取码：I768](https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw%C2%A0%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9AI768) |
+| 18 .最新区块链视频，以太坊智能合约从零构建以太坊智能合约到项目实战 | <https://pan.baidu.com/s/11hxFCo98w3vaBdV2hha-kA> 密码：23kd |
 
