@@ -37,13 +37,11 @@ go语言和区块链的一些学习总结笔记，包括go语言编程，区块�
 | 7.《220小时快速入门go语言视频》                              | 链接: <https://pan.baidu.com/s/1SOybRHWSpbu16D4SmPR_Fg> 密码: ss32 |
 | 8.《go语言教程-老男孩教学》                                  | 链接: <https://pan.baidu.com/s/1TfApasVzngYRxxHotq-4Fg> 密码: yqqs |
 | 9.《基于Golang协程实现流量统计系统》                         | 链接: <https://pan.baidu.com/s/1CDnuKHJn0BA9OAnsmd8adA> 密码: qjr3 |
-| 10.《黑马Go语言快速入门（2018年2月更新精品，不带源码课件）》 | 链接：<https://pan.baidu.com/s/1u50RcepOgGmgar0FG_bOMw> 密码: wckx |
-| 11.区块链从入门到精通系统篇                                  |   链接：<https://pan.baidu.com/s/1NXbX3gS4agQgtaylUikDZw>    |
-| 12.区块链精品教程系列-智能合约篇                             |   链接：<https://pan.baidu.com/s/16PGS7LBzC-INX8Vg6XakKQ>    |
-| 13.区块链精品教程三-密码学篇                                 |   链接：<https://pan.baidu.com/s/11orEFkPmf2pJk-z6xTB9fg>    |
-| 14.go语言超详细学习知识体系                                  |   链接：<https://pan.baidu.com/s/1ARSmrpMLoPe_EqWXqMQYlg>    |
-| 15.Go语言Web开发Beego框架深入浅出                            |   链接：<https://pan.baidu.com/s/1hG1lYDsy5WsLHwsRSNGWTg>    |
-| 16.GO和C的搞笑混合编程                                       |           链接：<https://pan.baidu.com/s/1c1DZzjE>           |
-| 17群友分享尚硅谷教学视频【详细】                             | 链接：[https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw 提取码：I768](https://pan.baidu.com/s/156PiUw45aEmKLbyqFM6Iqw%C2%A0%E6%8F%90%E5%8F%96%E7%A0%81%EF%BC%9AI768) |
-| 18 .最新区块链视频，以太坊智能合约从零构建以太坊智能合约到项目实战 | <https://pan.baidu.com/s/11hxFCo98w3vaBdV2hha-kA> 密码：23kd |
+| 10.区块链从入门到精通系统篇                                  |   链接：<https://pan.baidu.com/s/1NXbX3gS4agQgtaylUikDZw>    |
+| 11.区块链精品教程系列-智能合约篇                             |   链接：<https://pan.baidu.com/s/16PGS7LBzC-INX8Vg6XakKQ>    |
+| 12.区块链精品教程三-密码学篇                                 |   链接：<https://pan.baidu.com/s/11orEFkPmf2pJk-z6xTB9fg>    |
+| 13.go语言超详细学习知识体系                                  |   链接：<https://pan.baidu.com/s/1ARSmrpMLoPe_EqWXqMQYlg>    |
+| 14.Go语言Web开发Beego框架深入浅出                            |   链接：<https://pan.baidu.com/s/1hG1lYDsy5WsLHwsRSNGWTg>    |
+| 15.GO和C的搞笑混合编程                                       |           链接：<https://pan.baidu.com/s/1c1DZzjE>           |
+| 16 .最新区块链视频，以太坊智能合约从零构建以太坊智能合约到项目实战 | <https://pan.baidu.com/s/11hxFCo98w3vaBdV2hha-kA> 密码：23kd |
 
